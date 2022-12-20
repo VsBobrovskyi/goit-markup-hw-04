@@ -510,7 +510,7 @@ img {
 }
 
 .twitter:hover, .instagram:hover, .facebook:hover, .linkedin:hover,
-.twitter:focus, .instagram:focus, .facebook:focus, .linkedin:focus  {
+.twitter:focus, .instagram:focus, .facebook:focus, .linkedin:focus {
   fill: var(--button-activ-color);
 }
 
@@ -532,7 +532,7 @@ img {
   fill: var(--slate);
 }
 
-.customers-logo:hover, 
+.customers-logo:hover,
 .customers-logo:focus {
   fill: var(--button-activ-color);
   border-color: var(--button-activ-color);
